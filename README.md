@@ -1,4 +1,4 @@
-- 👋 hi, I’m @taraprahlad!
+- 👋 hi, I’m tara!
 - 🌱 i’m currently a high school senior from the bay area
 - 👀 i’m interested in cognitive science + linguistics + math
 - 💞️ and i’m looking for projects + opportunities to work in these fields
