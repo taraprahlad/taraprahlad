@@ -1,6 +1,6 @@
 - 👋 hi, I’m @taraprahlad!
 - 🌱 i’m currently a rising high school senior from the bay area
-- 👀 i’m interested in linguistics + computational linguistics + cognitive science
+- 👀 i’m interested in cognitive science + linguistics + math
 - 💞️ and i’m looking for projects + opportunities to work in these fields
 - 📫 you can reach me via my email takkimagpi@gmail.com
 - 😄 pronouns: she/her
