@@ -1,5 +1,5 @@
 - 👋 hi, I’m @taraprahlad!
-- 🌱 i’m currently a rising high school senior from the bay area
+- 🌱 i’m currently a high school senior from the bay area
 - 👀 i’m interested in cognitive science + linguistics + math
 - 💞️ and i’m looking for projects + opportunities to work in these fields
 - 📫 you can reach me via my email tara.prahlad.01@gmail.com
