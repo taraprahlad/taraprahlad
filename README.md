@@ -1,9 +1,9 @@
-- 👋 hi, I’m tara!
+- 👋 hi, i’m tara!
 - 🌱 i’m from the bay area, and i'm studying cognitive science @ cmu
-- 🧠 i am a huge linguistics + logic + math enthusiast
+- 🧠 i like learning, thinking, cats and startups!
 - 📫 you can reach me via my email tara.prahlad.01@gmail.com
 - 😄 pronouns: she/her
-- ⚡ when i'm not locked in, you can find me learning languages, watching anime or going on walks
+- ⚡ in my free time i like to run, watch anime, read, go thrifting, hang out with my friends and learn about random things.
 
 <!---
 taraprahlad/taraprahlad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
