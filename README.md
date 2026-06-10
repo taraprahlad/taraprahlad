@@ -1,6 +1,6 @@
 - 👋 hi, i’m tara!
 - 🌱 i’m from the bay area, and i'm studying cognitive science (with a prospective additional in math) @ cmu
-- 🧠 i like neurotech!
+- 🧠 i like working on things at the intersection of linguistics x math x neuroscience x cs
 - 📫 you can reach me via my email tara.prahlad.01@gmail.com
 - ⚡ in my free time i like to run, watch anime, read, go thrifting, hang out with my friends and learn about random things.
 
