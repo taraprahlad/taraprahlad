@@ -1,4 +1,4 @@
-hi, i’m tara!ᯓ★
+hi, i’m tara! ᯓ★
 
 ★ i’m from the bay area, and i'm studying cognitive science @ cmu  
 ★ i'm interested in bci's, neuroai, machine learning, linguistics, startups and more!  
